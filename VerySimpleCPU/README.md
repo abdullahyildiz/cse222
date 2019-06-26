@@ -1,1 +1,1 @@
-[Please visit VerySimpleCPU repository](https://github.com/abdullahyildiz/VerySimpleCPU-public)
+[Please visit VerySimpleCPU-public repository](https://github.com/MC2SC/VerySimpleCPU-public)
